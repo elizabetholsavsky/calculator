@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "//elizabetholsavsky.github.io/calculator/static/css/main.07ceb379.css",
+    "main.js": "//elizabetholsavsky.github.io/calculator/static/js/main.4a3909a7.js",
+    "index.html": "//elizabetholsavsky.github.io/calculator/index.html",
+    "main.07ceb379.css.map": "//elizabetholsavsky.github.io/calculator/static/css/main.07ceb379.css.map",
+    "main.4a3909a7.js.map": "//elizabetholsavsky.github.io/calculator/static/js/main.4a3909a7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.07ceb379.css",
+    "static/js/main.4a3909a7.js"
+  ]
+}
