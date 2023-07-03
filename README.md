@@ -1,6 +1,6 @@
 <div align="center"> 
-  
-  # Calculator
+
+  <a href="[https://scriptlyspeaking.herokuapp.com/](https://elizabetholsavsky.github.io/calculator/)"><img src="https://github.com/elizabetholsavsky/calculator/assets/116515976/c76a12c0-7085-4abf-9a4c-e9c0c1732ba8" width="500" height="auto"></a>
 
   https://elizabetholsavsky.github.io/calculator/
 
