@@ -27,7 +27,7 @@ This simple calcualtor application was built alongside [WebDevSimplified](https:
 * [Questions](#questions)
 
 ## Contributing
-[The Perfect Beginner React Project](https://www.youtube.com/watch?v=DgRrrOt0Vr8&t=607s) by [WebDevSimplified](https://github.com/WebDevSimplified)
+['The Perfect Beginner React Project](https://www.youtube.com/watch?v=DgRrrOt0Vr8&t=607s') by [WebDevSimplified](https://github.com/WebDevSimplified)
 
 ['Learn useReducer In 20 Minutes'](https://www.youtube.com/watch?v=kK_Wqx3RnHk) by [WebDevSimplified](https://github.com/WebDevSimplified)
 
