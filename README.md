@@ -13,6 +13,8 @@
 
 ## Description
 
+![elizabetholsavsky github io_calculator_](https://github.com/elizabetholsavsky/calculator/assets/116515976/e290be46-d5e8-4aa2-a60c-975a179ca80c)
+
 ## Table of Contents
 
 * [Contributing](#contributing)
@@ -39,6 +41,8 @@ https://github.com/gitname/react-gh-pages
 [MIT License](https://opensource.org/licenses/MIT)
 
 ## Questions
-* Github [elizabetholsavsky](https://github.com/elizabetholsavsky)
 * Email elizabetholsavsky@gmail.com
-
+* LinkedIn [https://www.linkedin.com/in/elizabetholsavsky/](https://www.linkedin.com/in/elizabetholsavsky/)
+* Portfolio [https://elizabetholsavsky.com/](https://elizabetholsavsky.com/)
+* Hashnode [https://elizabetholsavsky.hashnode.dev/](https://elizabetholsavsky.hashnode.dev/)
+* Twitter [@elizavsky](https://twitter.com/home)
