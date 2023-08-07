@@ -24,7 +24,7 @@ This simple calcualtor application was built alongside [WebDevSimplified](https:
 * [Learning Outcomes](#learning-outcomes)
 * [Usage](#usage)
 * [License](#license)
-* [Questions](#questions)
+* [Contact](#contact)
 
 ## Contributing
 ['The Perfect Beginner React Project](https://www.youtube.com/watch?v=DgRrrOt0Vr8&t=607s') by [WebDevSimplified](https://github.com/WebDevSimplified)
@@ -52,7 +52,7 @@ Edge cases addressed:
 ## License
 [MIT License](https://opensource.org/licenses/MIT)
 
-## Questions
+## Contact
 * Email elizabetholsavsky@gmail.com
 * LinkedIn [https://www.linkedin.com/in/elizabetholsavsky/](https://www.linkedin.com/in/elizabetholsavsky/)
 * Portfolio [https://elizabetholsavsky.com/](https://elizabetholsavsky.com/)
